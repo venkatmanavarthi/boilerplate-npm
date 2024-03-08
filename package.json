@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": {
-		"name": "Venkat Rao Manavarthi"
+		"name": "venkatmanavarthi"
 	},
-	"description": "I am Learning Backend Development Using Node Js",
+	"description": "A project that does something awesome",
 	"keywords": ["Backend", "NodeJS", "Venkat", "Manavarthi"],
 	"dependencies": {
 		"express": "^4.14.0"
